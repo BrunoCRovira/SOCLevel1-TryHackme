@@ -35,6 +35,8 @@ The core function is to investigate, monitor , prevent and respond to threats in
 **When?**
 **Why?**
 
+### A day in the Life of a Junior Associate Security Analyst.
+
 
 
 

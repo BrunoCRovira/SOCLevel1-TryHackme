@@ -1,22 +1,22 @@
-#Cyber Defense Frameworks
-##Junior Security Analyst Intro
+# Cyber Defense Frameworks
+## Junior Security Analyst Intro
 **JUNIOR SECURITY ANALYST RESPONSABILITIES**
-*Monitor and Investigate the alert.
-*Configure and Manage teh Security tools
-*Develop and implement basics (IDS)
-*Participate in SOC working groups, meetings.
-*Create tickets and escalate the security incidents the Tier2 and Team Lead if needed.
+* Monitor and Investigate the alert.
+* Configure and Manage teh Security tools
+* Develop and implement basics (IDS)
+* Participate in SOC working groups, meetings.
+* Create tickets and escalate the security incidents the Tier2 and Team Lead if needed.
 **Requiered Qualifications**
-*-2 year of expirience with Securit Operations
-*Basic Understanding of netwroking.
-*Scripting Programing Skills are a plus.
+* -2 year of expirience with Securit Operations
+* Basic Understanding of netwroking.
+*  Scripting Programing Skills are a plus.
 
 **Certifications**
 Comptia Security+
 
-##SOC (Securirt Operations
+## SOC (Securirt Operations
 The core function is to investigate, monitor , prevent and respond to threats in the cyber realm 24/7.
-###SOc Responsabilies:
+### SOc Responsabilies:
 
 *Reporting
 *Ticketing

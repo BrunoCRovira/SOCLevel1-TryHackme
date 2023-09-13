@@ -1,4 +1,4 @@
-# Cyber Defense Frameworks
+
 ## Junior Security Analyst Intro
 **JUNIOR SECURITY ANALYST RESPONSABILITIES**
 * Monitor and Investigate the alert.
@@ -28,6 +28,15 @@ The core function is to investigate, monitor , prevent and respond to threats in
 *SIEM(Security Infromation and Event Management).
 
 **A security Analyst learn how to priritise teh alert:Low Medium, High & Critical**.
+
+**Crucial role in the investigation procedure.**
+
+**How?**
+**When?**
+**Why?**
+
+
+
 
 
 

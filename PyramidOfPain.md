@@ -11,4 +11,8 @@
   **Tools online can be used to hash lookups**
   [Virus Total](https://www.virustotal.com/gui/home/upload)
   [Opswat](https://metadefender.opswat.com/)
+
+  ### IP Address Easy
+**Fast Flux**
+<p>Fast flux is a technique used by cybercriminals to increase their infrastructure's resilience by making law enforcement takedown of their servers and denylisting of their IP addresses harder. It is critical for these cybercriminals to maintain their networks' uptime to avoid losses to their revenue streams, including phishing and scam campaigns, botnet rental and illegal gambling operations. </p>
   
